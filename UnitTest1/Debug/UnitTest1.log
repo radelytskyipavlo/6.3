@@ -1,0 +1,12 @@
+﻿  UnitTest1.cpp
+D:\edc\АП\6\6.3i\Project1\Project1\Source.cpp(28,15): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\edc\АП\6\6.3i\Project1\Project1\Source.cpp(38,3): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\edc\АП\6\6.3i\Project1\Project1\Source.cpp(54): message : see reference to function template instantiation 'T Schablon<int>(T [],const T)' being compiled
+          with
+          [
+              T=int
+          ]
+D:\edc\АП\6\6.3i\Project1\Project1\Source.cpp(32): warning C4715: 'Defolt': not all control paths return a value
+D:\edc\АП\6\6.3i\Project1\Project1\Source.cpp(42): warning C4715: 'Schablon<int>': not all control paths return a value
+     Creating library D:\edc\АП\6\6.3i\Project1\Debug\UnitTest1.lib and object D:\edc\АП\6\6.3i\Project1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\edc\АП\6\6.3i\Project1\Debug\UnitTest1.dll
